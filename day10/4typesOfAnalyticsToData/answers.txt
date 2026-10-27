@@ -1,0 +1,19 @@
+The 5 planets
+- Kepler-10 b
+- Kepler-20 b
+- Kepler-22 b
+- Kepler-186 f
+- Kepler-452 b
+1. What happened? — Descriptive
+Kepler-20 b shows the largest transit depth (0.006), meaning its brightness reduction is strongest in this sample. Kepler-10 b has a very short orbital period of 0.8375 days, producing frequent transit opportunities. Kepler-22 b, Kepler-186 f, and Kepler-452 b have much longer periods and weaker brightness changes.
+2. Why did it happen? — Diagnostic
+Kepler-20 b has the strongest observed signal because its transit depth is much larger than the other planets. Kepler-22 b, Kepler-186 f, and Kepler-452 b have weaker signals, making them more susceptible to measurement noise. The long orbital periods also mean fewer transit opportunities within a fixed observation period.
+3. What might happen? — Predictive
+Using the observed orbital periods, the next transit can be estimated as:
+
+Next Transit = Last Transit + Orbital Period
+
+Therefore, Kepler-10 b and Kepler-20 b should produce new transits much more frequently than the other three planets. Kepler-452 b, with a period of approximately 384.8 days, will have considerably fewer observable transit events.
+4. What should we do? — Prescriptive
+Prioritize Kepler-10 b and Kepler-20 b for repeated observations because their short orbital periods provide frequent opportunities to collect transit data. For Kepler-22 b, Kepler-186 f, and Kepler-452 b, schedule observations specifically around predicted transit windows because their long periods make random observation less efficient.
+
